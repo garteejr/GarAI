@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/chat.js", "use": "@vercel/node" },
+    { "src": "api/generate-image.js", "use": "@vercel/node" },
+    { "src": "public/**/*", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/api/chat", "dest": "/api/chat.js" },
+    { "src": "/api/generate-image", "dest": "/api/generate-image.js" },
+    { "src": "/", "dest": "/public/desktop.html" },
+    { "src": "/mobile", "dest": "/public/mobile.html" },
+    { "src": "/(.*)", "dest": "/public/$1" }
+  ]
+}
