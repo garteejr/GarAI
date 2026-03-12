@@ -1,30 +1,44 @@
-\# GarAI 🤖
+# 🤖 GarAI
 
+**GarAI** adalah aplikasi **AI Chatbot berbasis web** yang memungkinkan pengguna berinteraksi dengan kecerdasan buatan melalui antarmuka chat yang sederhana, cepat, dan mudah digunakan langsung dari browser.
 
+Project ini dibuat sebagai eksplorasi dalam membangun aplikasi AI modern menggunakan teknologi web dan deployment cloud.
 
-GarAI adalah aplikasi chatbot berbasis web yang memungkinkan pengguna berinteraksi dengan AI melalui antarmuka chat sederhana.
+---
 
+## 🌐 Live Demo
 
+Coba langsung chatbotnya di sini:
 
-\## Features
+🔗 https://gar-ai-app-tau.vercel.app/
 
-\- AI Chat
+---
 
-\- Web Interface
+## ✨ Features
 
-\- Real-time response
+- 🤖 AI Chat Interaction
+- ⚡ Respon AI secara real-time
+- 🌐 Antarmuka berbasis web
+- 📱 Tampilan responsif
+- 🚀 Deployment cepat menggunakan Vercel
 
+---
 
+## 🛠️ Tech Stack
 
-\## Demo
+Project ini dibuat menggunakan teknologi berikut:
 
-https://gar-ai-app-tau.vercel.app/
+- **JavaScript**
+- **Node.js**
+- **Web Frontend Interface**
+- **AI API Integration**
+- **Vercel Deployment**
 
+---
 
+## 📦 Installation
 
-\## Author
+Clone repository ini:
 
-Tegar
-
-
-
+```bash
+git clone https://github.com/garteejr/GarAI.git
