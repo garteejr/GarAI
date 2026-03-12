@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="GarAI Banner">
+</p>
+
 # 🤖 GarAI
 
 **GarAI** adalah aplikasi **AI Chatbot berbasis web** yang memungkinkan pengguna berinteraksi dengan kecerdasan buatan melalui antarmuka chat yang sederhana, cepat, dan mudah digunakan langsung dari browser.
